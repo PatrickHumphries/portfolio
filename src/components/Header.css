@@ -1,0 +1,26 @@
+.Header {
+    box-sizing: border-box;
+}
+
+.Header nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: beige;
+}
+
+.Header nav h1 {
+    color: red;
+}
+
+.Header nav ul {
+    display: flex;
+    justify-content: end;
+    list-style-type: none;
+    margin: 15px;
+}
+
+.Header nav ul li {
+    margin: 10px 20px;
+    text-decoration: none;
+}
