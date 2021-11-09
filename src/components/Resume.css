@@ -1,0 +1,12 @@
+.Resume {
+    margin: 25px;
+}
+
+.Resume #top {
+    display: flex;
+    flex-direction: column;
+}
+
+.Resume #top h1, h2, p, a {
+    margin: 0;
+}
