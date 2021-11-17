@@ -25,8 +25,8 @@ function Resume() {
           I'm a full stack software developer from a non-traditional background.
           Formerly, I was a kayak guide, computer technician, and hospital
           technician. My desire to create and build led me towards software
-          development, which I have passionately pursued ever since. My bootcamp
-          education provided me with a fast track education in a variety of
+          development, which I have passionately pursued since 2019. My bootcamp
+          education provided me with a fast track in a variety of
           technologies, frameworks, and test driven development.
         </p>
       </div>

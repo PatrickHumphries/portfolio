@@ -1,12 +1,8 @@
 import "./Home.css";
-import { useHistory } from "react-router-dom";
 import { BsLinkedin, BsGithub, BsTwitter } from "react-icons/bs";
 
 function Home() {
-  // const history = useHistory();
-  // const handleClick = () => history.push( '/' );
-
-  return (
+ return (
     <div className="Home">
       <div id="intro">
         <h1>Hey,</h1>

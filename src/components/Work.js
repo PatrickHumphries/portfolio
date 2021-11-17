@@ -15,7 +15,7 @@ function Work() {
           <span>
             {" "}
             <a href="https://wtf-truck.web.app/">Where's The Food Trucks?</a>
-          </span>.
+          </span>
           <p>
             NOTE: The app is currently down, but I am working to resolve this
             issue. In the meantime, here is a video of the app in action, taken
