@@ -1,26 +1,26 @@
 .Header {
     box-sizing: border-box;
-}
+    font-family: Arial, Helvetica, sans-serif;
+  }
 
-.Header nav {
+  .Header nav {
     display: flex;
     justify-content: space-between;
     padding: 15px;
-    background-color: beige;
-}
+    background-color: rgb(132, 0, 149);
+  }
 
-.Header nav h1 {
-    color: red;
-}
-
-.Header nav ul {
+  .Header nav ul {
     display: flex;
     justify-content: end;
     list-style-type: none;
     margin: 15px;
-}
+  }
 
-.Header nav ul li {
+  .Header nav ul li {
     margin: 10px 20px;
     text-decoration: none;
-}
+  }
+
+
+  

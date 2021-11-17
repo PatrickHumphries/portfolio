@@ -16,6 +16,7 @@
     align-items: center;
     font-family: Rock Salt;
     font-size: 2em;
+    text-align: center;
 }
 
 .Home #intro h1 {
@@ -24,4 +25,19 @@
 
 .Home #intro h1, .Home #intro h2 {
     margin: 0;
+}
+
+.Home .socials {
+    display: flex;
+    justify-content: space-between;
+    bottom: 0;
+}
+
+.Home .socials a {
+    margin: 15px;
+    font-size: 2em;
+}
+
+.Home h3 {
+    font-family: Arial, Helvetica, sans-serif;
 }
