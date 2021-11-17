@@ -22,7 +22,7 @@ function Resume() {
       <div className="summary">
         <h2>Summary</h2>
         <p>
-          I'm a full stack software developer from a non-traditional background.
+          I'm a full stack web developer from a non-traditional background.
           Formerly, I was a kayak guide, computer technician, and hospital
           technician. My desire to create and build led me towards software
           development, which I have passionately pursued since 2019. My bootcamp
