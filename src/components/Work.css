@@ -11,9 +11,35 @@
     margin: 10px 0;
 }
 
-.Work #img {
+.Work .budget-buddy {
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
+    
 }
 
+
+
+.Work img {
+    height: 200px;
+    margin: 0 auto;
+}
+
+@media screen and (min-width: 968px) {
+    .Work {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .Work > * {
+        margin: 0 10px;
+    }
+
+    .Work .budget-buddy, .WTF {
+        border: 1px solid grey;
+        border-radius: 5px;
+        padding: 10px;
+        height: 400px;
+    }
+}

@@ -25,7 +25,7 @@ function Work() {
             src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6814165254348574720?compact=1"
             height="100%"
             width="100%"
-            frameborder="0"
+            frameborder="1"
             allowfullscreen=""
             title="Embedded post"
           ></iframe>
@@ -52,6 +52,7 @@ function Work() {
             </a>
           </span>
         </p>
+        <img src="budgetbuddy.jpg" />
       </div>
     </div>
   );

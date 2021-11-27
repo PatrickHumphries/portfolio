@@ -1,6 +1,5 @@
 import "./Header.css";
 import { NavLink } from "react-router-dom";
-import { useState } from "react";
 
 function Header() {
     return (
